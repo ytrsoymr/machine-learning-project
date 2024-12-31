@@ -116,8 +116,3 @@ To deploy the application, use platforms like:
 ## Author
 **Thirupathirao**
 
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
