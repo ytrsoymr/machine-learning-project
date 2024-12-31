@@ -1,9 +1,1 @@
-services:
-  - type: web
-    name: my-python-app
-    env: python
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "gunicorn app:app"
-    envVars:
-      - key: SECRET_KEY
-        value: "your_secret_key"
+
